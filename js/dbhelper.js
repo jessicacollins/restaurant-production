@@ -10,7 +10,7 @@ class DBHelper {
         // const port = 1337; // Change this to your server port
         // return `http://localhost:${port}`;
         // return `https://restaurant-review-app-server.herokuapp.com`;
-        return `https://keen-lumiere-127b04.netlify.com/`;
+        return `https://keen-lumiere-127b04.netlify.com`;
       }
 
     /**
